@@ -1,0 +1,15 @@
+on command line
+git init
+git add .
+git status
+git commit -m "msg"
+git remote add origin htts://githuburl (local repo to github)
+git push -u origin master
+
+
+git pull
+git pull -all
+git pull origin master
+git pull origin master:feature
+git pull origin tag-name
+git pull origin  commit-id
